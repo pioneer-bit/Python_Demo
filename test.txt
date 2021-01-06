@@ -1,0 +1,4 @@
+this is a  nice day
+this is a  bad  day
+this is a  sunny day
+this is a  rainy day
